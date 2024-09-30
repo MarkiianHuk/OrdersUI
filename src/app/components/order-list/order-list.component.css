@@ -1,0 +1,39 @@
+.order-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.order-list {
+  width: 40%;
+}
+
+.order-item {
+  height: 47px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.order-details {
+  width: 55%;
+}
+
+.mat-icon {
+  cursor: pointer;
+}
+
+.select-order {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  color: cornflowerblue;
+}
+
+.mat-mdc-list-item {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin-bottom: 20px;
+}
+
+.mat-mdc-list {
+  padding: 15px 10px;
+}

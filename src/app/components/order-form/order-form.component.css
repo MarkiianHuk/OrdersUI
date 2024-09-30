@@ -1,0 +1,27 @@
+.form-container {
+  width: 70%;
+  height: auto;
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin: 20px auto;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.submit-button {
+  margin: 10px auto;
+}
+
+.mr-10 {
+    margin-right: 10px
+}
